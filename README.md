@@ -16,6 +16,6 @@ Welcome to **GameZone**, a collection of fun and interactive games built using d
 - **Tech Stack:** Python  
 - **Description:** A word-guessing game where players attempt to guess a hidden word before running out of attempts.
 
-## 📂 How to Play
+
 
 
